@@ -1,0 +1,9 @@
+{
+  "source_repository": "https://github.com/ChengYaofeng/ReMake.git",
+  "source_commit": "dc288d6e9232f5fa5f8a775e12637cefa267d918",
+  "source_path": "relat_depth_models/depth_anything_v2",
+  "note": "Vendored package extracted without numerical implementation changes. The containing ReMake repository license is retained at ../remake/LICENSE; upstream Depth Anything V2 licensing and the third-party notices at the distribution root remain applicable.",
+  "upstream_license_url": "https://raw.githubusercontent.com/DepthAnything/Depth-Anything-V2/main/LICENSE",
+  "license_sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+  "license_retrieved_date": "2026-10-15"
+}

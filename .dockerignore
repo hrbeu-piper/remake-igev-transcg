@@ -1,0 +1,28 @@
+# Only the frozen sources and the explicitly supplied environment layer enter
+# the build context. Dataset, host environment, caches and receipts stay outside.
+**
+!Dockerfile
+!.dockerignore
+!env-layer.tar.gz
+!runtime-manifest.json
+!README.md
+!THIRD_PARTY_NOTICES.md
+!docs/
+!docs/**
+!src/
+!src/**
+!vendor/
+!vendor/**
+!scripts/
+!scripts/**
+**/__pycache__/
+**/*.pyc
+**/.git/
+**/.env
+**/.env.*
+**/*.clixml
+**/*.pem
+**/*.key
+**/*.pth
+**/*.pt
+**/*.ckpt

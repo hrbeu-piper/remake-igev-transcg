@@ -1,0 +1,2 @@
+# Runtime SHA-256 identities require byte-preserving checkouts on every host.
+* -text
